@@ -1,0 +1,7 @@
+In this task, I explored both coding practice platforms and cloud-based collaboration tools. For the coding platform, I used Hacker Rank and completed a beginner-level problem titled “Solve Me First.” This helped me understand how coding platforms work and how they can be used to improve problem-solving skills.
+
+For the collaboration part, I created a Google Form consisting of five questions related to digital literacy. The form included multiple-choice and short-answer questions to test basic awareness among students. I also explored how responses are automatically recorded in Google Sheets, making data collection efficient.
+
+This task helped me understand the importance of using online platforms for learning and collaboration. Coding platforms will help me improve my programming skills over time, while tools like Google Forms can be used for surveys, quizzes, and academic purposes.
+Link to the google form is-
+https://docs.google.com/forms/d/e/1FAIpQLSe7sQxrHHkOOHPrNxOxkwer2eTUlLnxQ9oSwiMnghFe1uOwRQ/viewform?usp=sharing&ouid=114705350177016449183
