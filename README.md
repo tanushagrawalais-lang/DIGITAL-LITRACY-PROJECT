@@ -1,0 +1,7 @@
+The Digital Literacy Portfolio is a comprehensive project designed to develop and demonstrate essential digital skills required in today’s technology-driven world. The project focuses on building awareness and practical understanding of how to use digital tools effectively, communicate professionally online, and maintain safety in the digital environment.
+
+As part of this project, multiple tasks were completed to cover different aspects of digital literacy. These included creating an infographic to explain key concepts, building a professional digital portfolio across platforms like GitHub, LinkedIn, and Kaggle, and exploring coding and collaboration tools such as HackerRank and Google Forms. Additionally, the project involved drafting professional emails and developing a social media etiquette checklist to understand proper online communication.
+
+A cybercrime case study was also conducted to highlight common online threats, specifically focusing on UPI fraud, along with preventive measures to promote safe digital practices. Each task was designed to simulate real-world digital interactions and responsibilities.
+
+This project emphasizes the importance of responsible digital behavior, critical thinking, and effective communication in online spaces. It also highlights how digital platforms can be used for learning, collaboration, and professional growth. Overall, the Digital Literacy Portfolio serves as a foundation for building a strong and responsible digital presence, which is essential for academic success and future career opportunities
